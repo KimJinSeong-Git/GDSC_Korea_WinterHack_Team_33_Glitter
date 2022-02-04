@@ -1,5 +1,3 @@
-# GDSC-Winter-Hackathon
-  > https://gdsckoreahackathon2022.github.io/#/
 ## 기간
 - 2022-01-24 ~ 2022-02.05
 ## Team Glitter
