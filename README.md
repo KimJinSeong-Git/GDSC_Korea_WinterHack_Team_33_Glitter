@@ -44,4 +44,4 @@
 - [ ]  발표 및 데모 자료
 
 ## Notion Page
-> https://www.notion.so/GDSC-Winter-Hackathon-936e8c016fe54f4a9a74f9444fcea275
+> https://lofty-countess-1ad.notion.site/Back-End-2022-01-1-201efc48e3ca4166acfc35290d999475
