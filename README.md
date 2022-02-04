@@ -2,19 +2,11 @@
   > https://gdsckoreahackathon2022.github.io/#/
 ## 기간
 - 2022-01-24 ~ 2022-02.05
-## Team Glitter of GDSC Yonsei
+## Team Glitter
 * 김진성( Lead )
-  * 19학번, 컴퓨터정보통신공학부
-  * acmiheee@gmail.com
 * 남윤지
-  * 20학번, 디자인예술학부(시각디자인학)
-  * 2020212025@yonsei.ac.kr
 * 박희준
-  * 18학번, 컴퓨터정보통신공학부
-  * parkie0517
 * 최우영
-  * 19학번, 컴퓨터정보통신공학부
-  * wychoi19@yonsei.ac.kr
 ## 주제
 - BERT 기반 팀빌딩 서비스
     - 같은 질문에 대한 팀 빌더( Lead )와 지원자의 답을 비교해 일치율 분석
