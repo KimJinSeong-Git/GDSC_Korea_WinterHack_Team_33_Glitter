@@ -22,7 +22,6 @@
 * 남윤지
 * 박희준
 * 최우영
-## Notion Page
-> https://lofty-countess-1ad.notion.site/GDSC-Winter-Hackathon-936e8c016fe54f4a9a74f9444fcea275
+
 ## Release
 > https://github.com/gdsckoreahackathon2022/33_Glitter/releases/tag/APK
